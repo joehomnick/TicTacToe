@@ -68,7 +68,7 @@
     <Content Include="main.css" />
     <Content Include="main.js" />
     <Content Include="ReadMe.txt" />
-    <Content Include="tic-tac-toe.html" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
